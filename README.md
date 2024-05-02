@@ -22,8 +22,8 @@ Here you'll find a collection of projects I've been working on in my spare time.
 
 ### Databases
 
-[![](https://skillicons.dev/icons?i=mysql,sqlite&theme=light)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=mysql&theme=light)](https://www.mysql.com/) [![](https://skillicons.dev/icons?i=sqlite&theme=light)](https://www.sqlite.org/)
 
 ### Revision control systems
 
-[![](https://skillicons.dev/icons?i=git,github,bitbucket&theme=light)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=git&theme=light)](https://git-scm.com/) [![](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/) [![](https://skillicons.dev/icons?i=bitbucket&theme=light)](https://bitbucket.org/)
