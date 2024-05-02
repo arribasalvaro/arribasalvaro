@@ -12,15 +12,13 @@ Professionally, I've been working since March 2024, but I've been immersed in th
 
 Here you'll find a collection of projects I've been working on in my spare time. Explore, collaborate, and feel free to leave your comments and suggestions!
 
-[lobobot.com](https://lobobot.com)
-
-[![](logos/lobobot-logo.png)](https://lobobot.com)
+* [](https://github.com/arribasalvaro/ticketmaster-mvvm-compose) - MVVM-Patterned Ticketmaster API App.
 
 ## Technologies
 
 ### Programming languages
 
-[![](https://skillicons.dev/icons?i=java,kotlin)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=java&theme=light,kotlin&theme=light)](https://skillicons.dev)
 
 ### Databases
 
