@@ -12,13 +12,13 @@ Professionally, I've been working since March 2024, but I've been immersed in th
 
 Here you'll find a collection of projects I've been working on in my spare time. Explore, collaborate, and feel free to leave your comments and suggestions!
 
-* [MVVM-Patterned Ticketmaster API App.](https://github.com/arribasalvaro/ticketmaster-mvvm-compose)
+* [MVVM-Patterned Ticketmaster API App](https://github.com/arribasalvaro/ticketmaster-mvvm-compose)
 
 ## Technologies
 
 ### Programming languages
 
-[![](https://skillicons.dev/icons?i=java,kotlin&theme=light)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=java,kotlin&theme=light)](https://skillicons.dev) [![](https://skillicons.dev/icons?i=java,kotlin&theme=light)](https://skillicons.dev) 
 
 ### Databases
 
