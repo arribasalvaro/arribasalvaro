@@ -18,12 +18,12 @@ Here you'll find a collection of projects I've been working on in my spare time.
 
 ### Programming languages
 
-[![](https://skillicons.dev/icons?i=java&theme=light,kotlin&theme=light)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=java,kotlin&theme=light)](https://skillicons.dev)
 
 ### Databases
 
-[![](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=mysql,sqlite&theme=light)](https://skillicons.dev)
 
 ### Revision control systems
 
-[![](https://skillicons.dev/icons?i=git,github,bitbucket)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=git,github,bitbucket&theme=light)](https://skillicons.dev)
