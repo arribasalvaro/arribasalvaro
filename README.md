@@ -18,7 +18,7 @@ Here you'll find a collection of projects I've been working on in my spare time.
 
 ### Programming languages
 
-[![](https://skillicons.dev/icons?i=java,kotlin&theme=light)](https://skillicons.dev) [![](https://skillicons.dev/icons?i=java,kotlin&theme=light)](https://skillicons.dev) 
+[![](https://skillicons.dev/icons?i=java&theme=light)](https://dev.java/) [![](https://skillicons.dev/icons?i=kotlin&theme=light)](https://kotlinlang.org/)
 
 ### Databases
 
